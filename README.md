@@ -1,6 +1,6 @@
 # AODV-minimal
 
-Its an AODV implementation with miniam features  like
+Its an AODV implementation with minimum features like
 
 1. host discovery 
 2. Path forming 
